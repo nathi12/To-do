@@ -37,7 +37,7 @@ export default function ToDo({ labels }) {
             }
             <TextField
                 id="standard-basic"
-                label="Standard"
+                label="enter an item"
                 variant="standard"
                 onKeyDown={handleDown}
             />
